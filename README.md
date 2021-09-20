@@ -1,6 +1,6 @@
 <h1>API-States</h1>
 
-Neste código foi feito uma API Restfull no NodeJS. Onde, foi criado uma API para trabalhar com o nosso um projeto de Estados.
+Neste código foi feito uma API Restfull no NodeJS. Onde, foi criado uma API para trabalhar com o nosso projeto de Estados.
 
 ### Preparando o ambiente
 
