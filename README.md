@@ -17,7 +17,7 @@ Neste código, vamos utilizar NodeJS, um programa para executar nosso código es
 * npm install express
 * npm install  body-parser
 * npm install sequelize
-* npm instal mysql2
+* npm install mysql2
 
 ### Para executar a API no terminal
 * node api/index.js
